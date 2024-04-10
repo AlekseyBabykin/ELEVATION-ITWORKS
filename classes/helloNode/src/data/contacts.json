@@ -9,14 +9,8 @@
         "state": "New York",
         "country": "United States",
         "postcode": 12564,
-        "coordinates": {
-          "latitude": "88.9222",
-          "longitude": "-82.9558"
-        },
-        "timezone": {
-          "offset": "+3:00",
-          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
-        }
+        "coordinates": { "latitude": "88.9222", "longitude": "-82.9558" },
+        "timezone": { "offset": "+3:00", "description": "Baghdad, Riyadh, Moscow, St. Petersburg" }
       },
       "email": "karl.johnson@example.com",
       "login": {
@@ -49,10 +43,7 @@
         "state": "Peć",
         "country": "Serbia",
         "postcode": 21728,
-        "coordinates": {
-          "latitude": "-87.2603",
-          "longitude": "-154.9263"
-        },
+        "coordinates": { "latitude": "-87.2603", "longitude": "-154.9263" },
         "timezone": { "offset": "-9:00", "description": "Alaska" }
       },
       "email": "jezdimir.popovic@example.com",
@@ -86,14 +77,8 @@
         "state": "Lapland",
         "country": "Finland",
         "postcode": 69472,
-        "coordinates": {
-          "latitude": "-47.0755",
-          "longitude": "-24.7668"
-        },
-        "timezone": {
-          "offset": "+9:30",
-          "description": "Adelaide, Darwin"
-        }
+        "coordinates": { "latitude": "-47.0755", "longitude": "-24.7668" },
+        "timezone": { "offset": "+9:30", "description": "Adelaide, Darwin" }
       },
       "email": "elli.hatala@example.com",
       "login": {
@@ -160,14 +145,8 @@
         "state": "Uri",
         "country": "Switzerland",
         "postcode": 1981,
-        "coordinates": {
-          "latitude": "30.4387",
-          "longitude": "83.8155"
-        },
-        "timezone": {
-          "offset": "+3:00",
-          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
-        }
+        "coordinates": { "latitude": "30.4387", "longitude": "83.8155" },
+        "timezone": { "offset": "+3:00", "description": "Baghdad, Riyadh, Moscow, St. Petersburg" }
       },
       "email": "margot.roche@example.com",
       "login": {
@@ -200,10 +179,7 @@
         "state": "Odeska",
         "country": "Ukraine",
         "postcode": 28507,
-        "coordinates": {
-          "latitude": "35.6181",
-          "longitude": "-75.4410"
-        },
+        "coordinates": { "latitude": "35.6181", "longitude": "-75.4410" },
         "timezone": { "offset": "-3:30", "description": "Newfoundland" }
       },
       "email": "potishana.buryak@example.com",
@@ -237,14 +213,8 @@
         "state": "Kırıkkale",
         "country": "Turkey",
         "postcode": 54010,
-        "coordinates": {
-          "latitude": "69.3921",
-          "longitude": "121.3114"
-        },
-        "timezone": {
-          "offset": "+11:00",
-          "description": "Magadan, Solomon Islands, New Caledonia"
-        }
+        "coordinates": { "latitude": "69.3921", "longitude": "121.3114" },
+        "timezone": { "offset": "+11:00", "description": "Magadan, Solomon Islands, New Caledonia" }
       },
       "email": "cetin.cagiran@example.com",
       "login": {
@@ -277,14 +247,8 @@
         "state": "Ohio",
         "country": "United States",
         "postcode": 82286,
-        "coordinates": {
-          "latitude": "-70.1876",
-          "longitude": "-110.0614"
-        },
-        "timezone": {
-          "offset": "+2:00",
-          "description": "Kaliningrad, South Africa"
-        }
+        "coordinates": { "latitude": "-70.1876", "longitude": "-110.0614" },
+        "timezone": { "offset": "+2:00", "description": "Kaliningrad, South Africa" }
       },
       "email": "peter.thompson@example.com",
       "login": {
@@ -317,14 +281,8 @@
         "state": "Cavan",
         "country": "Ireland",
         "postcode": 46902,
-        "coordinates": {
-          "latitude": "54.2514",
-          "longitude": "75.9456"
-        },
-        "timezone": {
-          "offset": "-12:00",
-          "description": "Eniwetok, Kwajalein"
-        }
+        "coordinates": { "latitude": "54.2514", "longitude": "75.9456" },
+        "timezone": { "offset": "-12:00", "description": "Eniwetok, Kwajalein" }
       },
       "email": "caitlin.garrett@example.com",
       "login": {
@@ -350,25 +308,15 @@
     },
     {
       "gender": "female",
-      "name": {
-        "title": "Ms",
-        "first": "Radomira",
-        "last": "Manuylenko"
-      },
+      "name": { "title": "Ms", "first": "Radomira", "last": "Manuylenko" },
       "location": {
         "street": { "number": 802, "name": "Oleksandra Matrosova" },
         "city": "Kozyatin",
         "state": "Odeska",
         "country": "Ukraine",
         "postcode": 50555,
-        "coordinates": {
-          "latitude": "52.3412",
-          "longitude": "-111.4492"
-        },
-        "timezone": {
-          "offset": "+7:00",
-          "description": "Bangkok, Hanoi, Jakarta"
-        }
+        "coordinates": { "latitude": "52.3412", "longitude": "-111.4492" },
+        "timezone": { "offset": "+7:00", "description": "Bangkok, Hanoi, Jakarta" }
       },
       "email": "radomira.manuylenko@example.com",
       "login": {

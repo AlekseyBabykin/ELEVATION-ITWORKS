@@ -1,5 +1,5 @@
-import { getName } from "./contacts.js";
+import { getName } from './contacts.js';
 
-test("expect to return a name", () => {
-  expect(getName()).toBe("");
+test('expect to return a name', () => {
+  expect(getName()).toBe('');
 });

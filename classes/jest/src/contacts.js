@@ -1,4 +1,4 @@
-import contacts from "./data/contacts.json" assert { type: "json" };
+import contacts from './data/contacts.json' assert { type: 'json' };
 
 console.log(contacts.results[0]);
 
