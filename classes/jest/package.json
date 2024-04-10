@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.24.4",
+    "@babel/plugin-syntax-import-attributes": "^7.24.1",
     "@babel/preset-env": "^7.24.4",
     "babel-jest": "^29.7.0",
     "identity-obj-proxy": "^3.0.0",
