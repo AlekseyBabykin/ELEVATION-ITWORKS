@@ -1,5 +1,5 @@
 import dbConnection from '../db/connection.js';
-export const DB_ELEVATION = 'elevation';
+export const DB_ELEVATION = 'elavation';
 export const COLLECTION = { USERS: 'users' };
 // a function that inserts a user into the database
 export async function insertUser(user) {
